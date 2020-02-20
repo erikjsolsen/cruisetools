@@ -22,7 +22,7 @@ setwd("~/ownCloud/Research/iBTS/IBTS Q1 2019/2019102/Cruistools_IBTS")
 
 #' Import data files exported from S2D
 #' must first open 'samples.txt' file in Excel with UTF8 Encoding, saving as .csv
-samples <- read.csv2("../data/S2D/catchsample.csv", header=TRUE, dec=",")
+samples <- read.csv2("../data/S2D/catchsample.csv", header=TRUE, dec=".")
 # samples <- read.table("../data/S2D/catchsample.txt", header=TRUE, sep="\t",dec=".", fill=TRUE)
 individual <- read.table("../data/S2D/individual.txt", header=TRUE, sep="\t", dec=".")
 station <- read.table("../data/S2D/fishstation.txt", header=TRUE, sep="\t", dec=".")
@@ -92,7 +92,7 @@ for (i in 1:length(art)){
 
 samples.tbl<-tbl_df(samples)
 samples.station<-group_by(samples.tbl, f.serialnumber)
-tot.catch.station<-summarise(samples.station, catch.weight.kg=sum(catchweight), lat=max(lat), lon=max(lon))
+tot.catch.station<-summarise(samples.station, catch.weight.kg=sum(as.numeric(catchweight)), lat=max(lat), lon=max(lon))
 
 p <- ggplot(tot.catch.station, aes(lon, lat))
 p  +  geom_polygon(data =northsea, colour="gray35", fill="gray85", aes(x=long, y=lat, group=group)) +  coord_quickmap(xlim = c(-4, 13), ylim=c(50, 62)) + theme_bw() + geom_point(colour="slateblue", aes(size=catch.weight.kg))   + scale_size(name="Fangst (kg)", range=c(1,6), breaks=c(0,10, 20, 50,100,150, 200,250,300, 400, 500)) + ggtitle("Total fangst pr stasjon")

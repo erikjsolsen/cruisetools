@@ -1,0 +1,97 @@
+m.missiontype	m.startyear	m.platform	m.missionnumber	f.serialnumber	catchsampleid	commonname	catchcategory	catchpartnumber	aphia	scientificname	identification	foreignobject	sampletype	group	conservation	catchproducttype	raisingfactor	catchweight	catchvolume	catchcount	abundancecategory	sampleproducttype	lengthmeasurement	lengthsampleweight	lengthsamplevolume	lengthsamplecount	specimensamplecount	agesamplecount	agingstructure	parasite	stomach	intestine	tissuesample	samplerecipient	catchcomment
+4	2020	LMEL	2	60009	1	knurr	KNURR	1	150637	Eutrigla gurnardus			10		1	1	1.0	5.82		21		1	E	5.82		21									
+4	2020	LMEL	2	60009	2	tverrstripet knurr	TVERRSTRIPET KNURR	1	127259	Chelidonichthys cuculus			10		1	1	1.0	0.041		1		1	E	0.041		1									
+4	2020	LMEL	2	60009	3	vanlig fløyfisk	VANLIG FLØYFISK	1	126792	Callionymus lyra			10		1	1	1.0	0.007		1		1	E	0.007		1									
+4	2020	LMEL	2	60009	4	strømsild	STRØMSILD	1	126716	Argentina sphyraena			10		1	1	1.0	0.109		2		1	E	0.109		2									
+4	2020	LMEL	2	60009	5	sandflyndre	SANDFLYNDRE	1	127139	Limanda limanda			10		1	1	1.0	0.769		23		1	E	0.769		23									
+4	2020	LMEL	2	60009	6	sypike	SYPIKE	1	126446	Trisopterus minutus			10		1	1	1.0	0.012		1		1	E	0.012		1									
+4	2020	LMEL	2	60009	7	kveite	KVEITE	1	127138	Hippoglossus hippoglossus			10		1	1	1.0	6.68		1		1	E	6.68		1									
+4	2020	LMEL	2	60009	8	breiflabb	BREIFLABB	1	126555	Lophius piscatorius			10		1	1	1.0	7.265		2		1	E	7.265		2									
+4	2020	LMEL	2	60009	9	lomre	LOMRE	1	127140	Microstomus kitt			10		1	1	1.0	0.206		2		1	E	0.206		2									
+4	2020	LMEL	2	60009	11	hvitting	HVITTING	1	126438	Merlangius merlangus			21		1	1	1.0	1.32		6		1	E	1.32		6	5		2						
+4	2020	LMEL	2	60009	13	Loligo	LOLIGO	1	138139	Loligo			91		1	1	1.0	0.419		13		1	B	0.419		13								1	
+4	2020	LMEL	2	60009	14	Todaropsis eblanae	TODAROPSIS EBLANAE	1	140625	Todaropsis eblanae			91		1	1	1.0	0.075		3		1	B	0.075		3								1	
+4	2020	LMEL	2	60009	15	anemoneeremittkreps	ANEMONEEREMITTKREPS	1	107239	Pagurus prideaux			90		1	1	1.0	0.055		10															
+4	2020	LMEL	2	60009	16	Bernakeremittkreps	BERNAKEREMITTKREPS	1	107232	Pagurus bernhardus			90		1	1	1.0	0.002		7															
+4	2020	LMEL	2	60009	17	sjøpiggsvin	SJØPIGGSVIN	1	123082	Echinoidea			90		1	1	1.0	0.038		6															
+4	2020	LMEL	2	60009	18	Colus	COLUS	1	137704	Colus			90		1	1	1.0	0.067		4															
+4	2020	LMEL	2	60009	19	Stor Havsnegl	STOR HAVSNEGL	1	138920	Neptunea Antiqua			90		1	1	1.0	0.972		6															
+4	2020	LMEL	2	60009	20	sadelskjell	SADELSKJELL	1	214	Anomiidae			90		1	1	1.0	0.001		7															
+4	2020	LMEL	2	60009	21	Hormathia	HORMATHIA	1	100757	Hormathia			90		1	1	1.0	0.633		7															
+4	2020	LMEL	2	60009	22	Adamsia	ADAMSIA	1	100751	Adamsia			90		1	1	1.0	0.022		9															
+4	2020	LMEL	2	60009	23	sekkedyr	SEKKEDYR	1	1839	Ascidiacea			90		1	1	1.0	0.052		9															
+4	2020	LMEL	2	60009	24	Suberites	SUBERITES	1	132072	Suberites			90		1	1	1.0	0.03		6															
+4	2020	LMEL	2	60009	25	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	11.98		57		1	E	11.98		57	16		2						
+4	2020	LMEL	2	60009	27	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			21		1	1	1.0	0.705		118		1	E	0.595		100	4	1	2						
+4	2020	LMEL	2	60010	1	glassvar	GLASSVAR	1	127146	Lepidorhombus whiffiagonis			10		1	1	1.0	2.32		6		1	E	2.32		6									
+4	2020	LMEL	2	60010	2	knurr	KNURR	1	150637	Eutrigla gurnardus			10		1	1	1.0	0.6		1		1	E	0.6		1									
+4	2020	LMEL	2	60010	3	strømsild	STRØMSILD	1	126716	Argentina sphyraena			10		1	1	1.0	0.273		7		1	E	0.273		7									
+4	2020	LMEL	2	60010	4	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides			10		1	1	1.0	0.005		1		1	E	0.005		1									
+4	2020	LMEL	2	60010	5	mulle	MULLE	1	126986	Mullus surmuletus			10		1	1	1.0	0.098		1		1	E	0.098		1									
+4	2020	LMEL	2	60010	6	lysing	LYSING	1	126484	Merluccius merluccius			10		1	1	1.0	2.3		4		1	E	2.3		4								2	
+4	2020	LMEL	2	60010	7	Hestmakrell	HESTMAKRELL	1	126822	Trachurus trachurus			34		1	1	1.0	10.846		34		1	F	10.846		34	34								
+4	2020	LMEL	2	60010	8	hvitting	HVITTING	1	126438	Merlangius merlangus			21		1	1	1.0	0.394		1		1	E	0.394		1	1		2						
+4	2020	LMEL	2	60010	9	hyse	HYSE	1	126437	Melanogrammus aeglefinus			21		1	1	1.0	3.66		11		1	E	3.66		11	10		2						
+4	2020	LMEL	2	60010	10	Todaropsis eblanae	TODAROPSIS EBLANAE	1	140625	Todaropsis eblanae			91		1	1	1.0	0.093		1		1	B	0.093		1								1	
+4	2020	LMEL	2	60010	11	Loligo	LOLIGO	1	138139	Loligo			91		1	1	1.0	7.475		95		1	B	7.475		95								1	
+4	2020	LMEL	2	60010	12	sei	SEI	1	126441	Pollachius virens			21		1	1	1.0	54.55		16		1	E	54.55		16	15		2						
+4	2020	LMEL	2	60010	13	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii			21		1	1	1.0	2.62		110		1	E	2.38		100	10		2						
+4	2020	LMEL	2	60010	14	blåkjeft	BLÅKJEFT	1	127251	Helicolenus dactylopterus			21		1	1	1.0	0.294		7		1	E	0.294		7	7	7	2				1		
+4	2020	LMEL	2	60010	15	sild'G05	SILD'G05	1	126417	Clupea harengus			23		1	1	1.0	2.04		8		1	E	2.04		8	8		2						
+4	2020	LMEL	2	60010	16	sardin	SARDIN	1	126421	Sardina pilchardus			20		1	1	1.0	0.093		1		1	E	0.093		1	1		2						
+4	2020	LMEL	2	60010	17	makrell	MAKRELL	1	127023	Scomber scombrus			23		1	1	1.0	312.94		1434		1	F	21.818		100	100		2						
+4	2020	LMEL	2	60010	18	anemoneeremittkreps	ANEMONEEREMITTKREPS	1	107239	Pagurus prideaux			90		1	1	1.0	0.09		12															
+4	2020	LMEL	2	60010	19	Bernakeremittkreps	BERNAKEREMITTKREPS	1	107232	Pagurus bernhardus			90		1	1	1.0	0.001		1															
+4	2020	LMEL	2	60010	20	Sjøroselus	SJØROSELUS	1	239867	Pycnogonum litorale			90		1	1	1.0	0.002		2															
+4	2020	LMEL	2	60010	21	Rødpølse	RØDPØLSE	1	124535	Parastichopus Tremulus			90		1	1	1.0	0.401		1															
+4	2020	LMEL	2	60010	22	sjøpiggsvin	SJØPIGGSVIN	1	123082	Echinoidea			90		1	1	1.0	0.071		2															
+4	2020	LMEL	2	60010	23	sjøpiggsvin	SJØPIGGSVIN	2	123082	Echinoidea			90		1	1	1.0	2.456		570															
+4	2020	LMEL	2	60010	24	Luidia sarsii	LUIDIA SARSII	1	123922	Luidia sarsii			90		1	1	1.0	0.002		1															
+4	2020	LMEL	2	60010	25	Pontaster tenuispinus	PONTASTER TENUISPINUS	1	123851	Pontaster tenuispinus			90		1	1	1.0	0.005		2															
+4	2020	LMEL	2	60010	26	sypute	SYPUTE	1	125166	Porania pulvillus			90		1	1	1.0	0.028		1															
+4	2020	LMEL	2	60010	27	Ophiura	OPHIURA	1	123574	Ophiura			90		1	1	1.0	0.003		1															
+4	2020	LMEL	2	60010	28	Colus	COLUS	1	137704	Colus			90		1	1	1.0	0.008		1															
+4	2020	LMEL	2	60010	29	Scaphander lignarius	SCAPHANDER LIGNARIUS	1	139488	Scaphander lignarius			90		1	1	1.0	0.04		9															
+4	2020	LMEL	2	60010	30	Hyalinoecia tubicola	HYALINOECIA TUBICOLA	1	130464	Hyalinoecia tubicola			90		1	1	1.0	0.001		1															
+4	2020	LMEL	2	60010	31	Chaetopterus	CHAETOPTERUS	1	129229	Chaetopterus			90		1	1	1.0	0.001		1															
+4	2020	LMEL	2	60010	32	Hormathia	HORMATHIA	1	100757	Hormathia			90		1	1	1.0	0.119		14															
+4	2020	LMEL	2	60010	33	Adamsia	ADAMSIA	1	100751	Adamsia			90		1	1	1.0	0.036		1															
+4	2020	LMEL	2	60010	34	sekkedyr	SEKKEDYR	1	1839	Ascidiacea			90		1	1	1.0	0.001		1															
+4	2020	LMEL	2	60010	35	Suberites	SUBERITES	1	132072	Suberites			90		1	1	1.0	0.007		1															
+4	2020	LMEL	2	60011	1	torsk	TORSK	1	126436	Gadus morhua					1	1		28.76																	
+4	2020	LMEL	2	60011	2	sei	SEI	1	126441	Pollachius virens					1	1		13.92																	
+4	2020	LMEL	2	60011	3	sild'G05	SILD'G05	1	126417	Clupea harengus					1	1		30.07																	
+4	2020	LMEL	2	60011	4	hyse	HYSE	1	126437	Melanogrammus aeglefinus					1	1		9.5																	
+4	2020	LMEL	2	60011	5	knurr	KNURR	1	150637	Eutrigla gurnardus					1	1		2.78																	
+4	2020	LMEL	2	60011	6	glassvar	GLASSVAR	1	127146	Lepidorhombus whiffiagonis					1	1		2.26																	
+4	2020	LMEL	2	60011	7	øyepål	ØYEPÅL	1	126444	Trisopterus esmarkii					1	1		8.25																	
+4	2020	LMEL	2	60011	8	makrell	MAKRELL	1	127023	Scomber scombrus					1	1		1.42																	
+4	2020	LMEL	2	60011	9	sypike	SYPIKE	1	126446	Trisopterus minutus					1	1		0.052																	
+4	2020	LMEL	2	60011	10	blåkjeft	BLÅKJEFT	1	127251	Helicolenus dactylopterus					1	1		0.027																	
+4	2020	LMEL	2	60011	11	sandflyndre	SANDFLYNDRE	1	127139	Limanda limanda					1	1		0.063																	
+4	2020	LMEL	2	60011	12	strømsild	STRØMSILD	1	126716	Argentina sphyraena					1	1		0.094																	
+4	2020	LMEL	2	60011	13	Hestmakrell	HESTMAKRELL	1	126822	Trachurus trachurus					1	1		0.241																	
+4	2020	LMEL	2	60011	14	gapeflyndre	GAPEFLYNDRE	1	127137	Hippoglossoides platessoides					1	1		0.299																	
+4	2020	LMEL	2	60011	15	vassild	VASSILD	1	126715	Argentina silus					1	1		0.059																	
+4	2020	LMEL	2	60011	16	Alloteuthis	ALLOTEUTHIS	1	138138	Alloteuthis			90		1	1		0.05																	
+4	2020	LMEL	2	60011	17	Loligo	LOLIGO	1	138139	Loligo			90		1	1		2.89																	
+4	2020	LMEL	2	60011	18	anemoneeremittkreps	ANEMONEEREMITTKREPS	1	107239	Pagurus prideaux			90		1	1		0.048																	
+4	2020	LMEL	2	60011	19	Bernakeremittkreps	BERNAKEREMITTKREPS	1	107232	Pagurus bernhardus			90		1	1		0.001																	
+4	2020	LMEL	2	60011	20	småpyntekrabbe	SMÅPYNTEKRABBE	1	107323	Hyas coarctatus			90		1	1		0.003																	
+4	2020	LMEL	2	60011	21	Sjøroselus	SJØROSELUS	1	239867	Pycnogonum litorale			90		1	1		0.001																	
+4	2020	LMEL	2	60011	22	Rødpølse	RØDPØLSE	1	124535	Parastichopus Tremulus			90		1	1		0.459																	
+4	2020	LMEL	2	60011	23	sjøpiggsvin	SJØPIGGSVIN	1	123082	Echinoidea			90		1	1		0.046																	
+4	2020	LMEL	2	60011	24	hestestjerne	HESTESTJERNE	1	124043	Hippasteria phrygiana			90		1	1		0.046																	
+4	2020	LMEL	2	60011	25	lite korstroll	LITE KORSTROLL	1	125158	Leptasterias (leptasterias) muelleri			90		1	1		0.001																	
+4	2020	LMEL	2	60011	26	Luidia sarsii	LUIDIA SARSII	1	123922	Luidia sarsii			90		1	1		0.008																	
+4	2020	LMEL	2	60011	27	sypute	SYPUTE	1	125166	Porania pulvillus			90		1	1		0.045																	
+4	2020	LMEL	2	60011	28	Scaphander lignarius	SCAPHANDER LIGNARIUS	1	139488	Scaphander lignarius			90		1	1		0.012																	
+4	2020	LMEL	2	60011	29	Lamellaria perspicua	LAMELLARIA PERSPICUA	1	140173	Lamellaria perspicua			90		1	1		0.002																	
+4	2020	LMEL	2	60011	30	koralldyr	KORALLDYR	1	1292	Anthozoa			90		1	1		0.008																	
+4	2020	LMEL	2	60011	31	børsteormer	BØRSTEORMER	1	883	Polychaeta			90		1	1		0.006																	sandy tubes
+4	2020	LMEL	2	60011	32	Caryophyllia smithii	CARYOPHYLLIA SMITHII	1	135144	Caryophyllia smithii			90		1	1		0.001																	
+4	2020	LMEL	2	60011	33	Hormathia	HORMATHIA	1	100757	Hormathia			90		1	1		0.003																	
+4	2020	LMEL	2	60011	34	Adamsia	ADAMSIA	1	100751	Adamsia			90		1	1		0.021																	
+4	2020	LMEL	2	60011	35	Ascidia virginea	ASCIDIA VIRGINEA	1	103717	Ascidia virginea			90		1	1		0.028																	
+4	2020	LMEL	2	60011	36	sekkedyr	SEKKEDYR	1	1839	Ascidiacea			90		1	1		0.006																	
+4	2020	LMEL	2	60011	37	Suberites	SUBERITES	1	132072	Suberites			90		1	1		0.002																	
