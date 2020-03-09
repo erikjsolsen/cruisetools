@@ -1,7 +1,8 @@
 #' Export of MIK data from IBTS to HAWG required format (data delivery)
 #' 
 #' Based on script by J. Devine
-#' Modified: March 2019
+#' Modified: March 2020
+#' 
 #' By: Erik Olsen
 
 
@@ -114,6 +115,7 @@ summary(x$Not_measured)  ## all were measured - there was no subsampling to acco
 x$subsamp.no<-1
 x<-x[,-c(2:3,54)]  ## remove no.m2, mean.size and not measured columns
 x[is.na(x)]<-0
+x <- x[, -c(52)]
 ## Mik Larvae sheet - copied in relavent columns
 ## scaling factor
 # x[is.na(x)]<-0
@@ -122,7 +124,7 @@ x[is.na(x)]<-0
 
 
 
-y<-melt(x,id.vars=c('HaulID','number_caught','subsamp.no'))
+y<-reshape2::melt(x,id.vars=c('HaulID','number_caught','subsamp.no'))
 y[,4]<-as.numeric(substring(y[,4],2,3))     ## NAs created for the 'notmeasured' text
 table(y$value)
 

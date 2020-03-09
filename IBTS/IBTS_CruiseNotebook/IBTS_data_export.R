@@ -2,6 +2,7 @@
 # By: Erik Olsen
 # v. Feb 2019
 
+library(dplyr)
 
 #' SETTING SYSTEM TO NORWEGIAN
 Sys.setlocale("LC_CTYPE", "no_NO")
@@ -24,6 +25,11 @@ species<-c("SILD'G05", "TORSK", "HYSE", "HVITTING", "ØYEPÅL", "BRISLING", "MAK
 
 st.list<-station$serialnumber
 
+
+summary(individual %>% group_by(f.serialnumber) %>% tally())
+
+samples.sel <- subset(samples, commonname=c(species))
+samples %>% group_by(f.serialnumber, commonname) %>% tally()
 
 #' DATA TABLE FOR EXPORT
 #' create a data-table to store information
